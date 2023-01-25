@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsam-01&label=Profile%20views&color=0e75b6&style=flat" alt="samsam-01" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsam-01&show_icons=true&locale=en&layout=compact" alt="samsam-01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsam-01&show_icons=true&locale=fr" alt="samsam-01" /></p>
 
 <h3 align="left">&nbsp;Connect with me:</h3>
 <p align="left">
