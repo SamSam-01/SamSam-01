@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsam-01&show_icons=true&locale=en&layout=compact" alt="samsam-01" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=samsam-01&show_icons=true&locale=en" alt="samsam-01" /></p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">&nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-blard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-blard/" height="30" width="40" /></a>
 </p>
